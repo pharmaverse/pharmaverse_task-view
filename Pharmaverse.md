@@ -109,7 +109,7 @@ Pharmaverse also includes packages focused on developer activities, such as pack
 
 `r pkg("valtools")`: valtools helps automate the validation of R packages used in clinical research and drug development: It provides useful templates and helper functions for tasks that arise during project set up and development of the validation framework.
 
-`r pkg("valtools")`: The risk of using an R package is evaluated based on a number of metrics meant to evaluate development best practices, code documentation, community engagement and development sustainability. We hope to provide a framework to quantify risk by assessing these metrics. This package serves as a starting point for exploring the heterogeneity of code quality, and begin a broader conversation about the validation of R packages. Primarily, this effort aims to provide some context for validation within regulated industries.
+`r pkg("riskmetric")`: The risk of using an R package is evaluated based on a number of metrics meant to evaluate development best practices, code documentation, community engagement and development sustainability. We hope to provide a framework to quantify risk by assessing these metrics. This package serves as a starting point for exploring the heterogeneity of code quality, and begin a broader conversation about the validation of R packages. Primarily, this effort aims to provide some context for validation within regulated industries.
 
 ## Synthetic Data
 
