@@ -9,7 +9,7 @@ source: https://github.com/pharmaverse/pharmaverse_task-view
 
 The packages included within the pharmaverse focus on a specific subset of clinical trial activities, specifically on the clinical reporting pipelines used within the pharmaceutical industry. These activities follow specific standards, such as [CDISC Data Standards](https://www.cdisc.org/) and [ICH E3](https://database.ich.org/sites/default/files/E3_Guideline.pdf). The scope of pharmaverse packages ranges from CRF (Case Report Forms - or data collection for a clinical trial) through clinical trial analysis reporting, including formatting of data to match SDTM (Study Data Tabulation Model) and ADaM (Analysis Data Model) standards, and production of TLGs (Tables, Listings, and Graphs). Furthermore, pharmaverse packages help supporting the orchestration activities of clinical trial data analysis through regulatory requirements. 
 
-The scope of the pharmaverse is only a small subset of the larger range of clinical trial activities for with R can be applied. For more information on R packages for clinical trials, see `r view("ClinicalTrials")`.
+The scope of the pharmaverse is only a small subset of the larger range of clinical trial activities for with R can be applied. For more information on R packages for clinical trials, see `r view("ClinicalTrials")`. Pharmaverse also has more resources outside of CRAN, which you can read about on www.pharmaverse.org. 
 
 # Study Data Tabulation Model (SDTM)
 
