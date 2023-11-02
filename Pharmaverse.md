@@ -83,6 +83,8 @@ There are several activities required for regulatory submissions that have highl
 
 `r pkg("xportr")`: xportr is designed xportr to help get your xpt files ready for transport either to a clinical data set validator application or to a regulatory agency. This package has the functionality to associate metadata information to a local R data frame, perform data set level validation checks and convert into a [transport v5 file (xpt)](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/movefile/n1xbwdre0giahfn11c99yjkpi2yb.htm). xportr is built on top of the haven R package to generate the version 5 transport files. 
 
+`r pkg("datasetjson")`: datasetjson allows you to read, construct and write CDISC (Clinical Data Interchange Standards Consortium) Dataset JSON (JavaScript Object Notation) files, while validating per the Dataset JSON schema file, as described in [CDISC (2023)](https://www.cdisc.org/dataset-json). The Dataset JSON standard is a proposed successor to the [transport v5 file (xpt)](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/movefile/n1xbwdre0giahfn11c99yjkpi2yb.htm) for e-submission of data for regulatory submissions.
+
 `r pkg("pkglite")`: pkglite offers a solution for converting R package source code to a compact, text-based representation and restore the source package structure from the representation. There are three specific aims: To provide a tool for packing and restoring R packages as plain text assets that are easy to store, transfer, and review. To provide a grammar for specifying the file packing scope that is functional, precise, and extendable. To provide a standard for exchanging the packed asset that is unambiguous, human-friendly, and machine-readable.
 
 # Metadata 
