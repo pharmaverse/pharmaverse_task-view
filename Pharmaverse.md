@@ -36,7 +36,7 @@ The SDTM packages are:
 
 `r pkg("admiralonco")`: This is an extension package of admiral focusing on oncology disease area specifics.
 
-`r pkg("admiraloptha")`: This is an extension package of admiral focusing on ophthalmology disease area datasets and endpoints.
+`r pkg("admiralophtha")`: This is an extension package of admiral focusing on ophthalmology disease area datasets and endpoints.
 
 `r pkg("admiralvaccine")`:  This is an extension package of admiral focusing on vaccine specific domains.
 
