@@ -1,7 +1,7 @@
 ---
 name: Pharmaverse
 topic: Pharmaverse Packages for Clinical Reporting
-maintainer: Mike Stackhouse, Aaron Clark
+maintainer: Mike Stackhouse, Aaron Clark, Ross Farrugia
 email: Mike.Stackhouse@atorusresearch.com
 version: 2023-10-23
 source: https://github.com/pharmaverse/pharmaverse_task-view
