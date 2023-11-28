@@ -62,8 +62,6 @@ For tables, we recommend the effort from R Consortium - [Tables in Clinical Tria
 
 ## Plots
 
-`r pkg("visR")`: The goal of visR is to enable fit-for-purpose, reusable clinical and medical research focused visualizations and tables with sensible defaults and based on sound graphical principles. By using a common package for visualising data analysis results in the clinical development process, visR wants to have a positive influence on the choice of visualisation by making it easy explore different visualisation and to use impactful visualisations fit-for-purpose,and effective visual communication by making it easy to implement best practices.
-
 `r pkg("ggsurvfit")`: The ggsurvfit package eases the creation of time-to-event (aka survival) summary figures with ggplot2. The concise and modular code creates images that are ready for publication or sharing. Competing risks cumulative incidence is also supported via ggcuminc().
 
 ## Interactive
